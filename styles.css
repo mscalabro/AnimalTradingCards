@@ -1,0 +1,48 @@
+/* For entire card */
+.card{
+    border: 1px solid lightgrey;
+    box-shadow: 5px 5px lightgrey;
+    width: 330px;
+    background-color:#e6ffff;
+}
+/* For Title of favorite animal */
+h3{
+    margin: 15px;
+}
+/* For the image */
+img {
+max-width: 300px;
+height: auto;
+margin: 15px;
+margin-top: 8px;
+margin-bottom: 8px;
+}
+/* For the text below the image */
+.belowpicture{
+    border: 1px solid lightgray;
+    margin: 15px;
+    text-align: left;
+    width: 300px;
+    background-color: #ebe0eb;
+}
+/* For the little description */
+.description{
+    font-style: italic;
+    margin: 15px;
+}
+
+/* For the entire list */
+ul{
+    list-style: none;
+    text-align: left;
+    padding: 0;
+    margin: 15px;
+}
+/* For the item titles */
+span {
+    font-weight: bold;
+}
+/* For the text below the list */
+.brief{
+    margin: 15px;
+}
